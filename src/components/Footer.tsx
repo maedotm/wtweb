@@ -10,15 +10,14 @@ export default function Footer() {
       <div className="container mx-auto px-4 md:px-6 py-16 relative z-10">
         <div className="grid md:grid-cols-4 gap-8 mb-12">
           <div className="md:col-span-2">
-            <div className="flex items-center space-x-3 mb-4">
-              <div className="w-12 h-12 bg-gradient-to-br from-[#2DAAEF] to-[#1e88cc] rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">WT</span>
-              </div>
-              <div>
-                <h3 className="text-xl font-bold">Wondmneh Tsegaye</h3>
-                <p className="text-sm text-gray-400">Import & IT Solution</p>
-              </div>
-            </div>
+                  <div className="flex items-center">
+            <img
+              src="img/logo.png"   // put your logo file inside public folder
+              alt="Company Logo"
+              className="h-20 w-auto"
+            />
+          </div>
+            
             <p className="text-gray-400 mb-6 max-w-md">
               Your trusted partner for premium IT equipment, networking solutions,
               and professional technology services. Excellence delivered since 2014.
@@ -70,11 +69,11 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start space-x-3">
                 <Phone className="text-[#2DAAEF] flex-shrink-0 mt-1" size={18} />
-                <span className="text-gray-400">+251-XXX-XXX-XXX</span>
+                <span className="text-gray-400">+251-911-046-555</span>
               </li>
               <li className="flex items-start space-x-3">
                 <Mail className="text-[#2DAAEF] flex-shrink-0 mt-1" size={18} />
-                <span className="text-gray-400">info@wondmnehit.com</span>
+                <span className="text-gray-400">info@wondmnehitsolution.com</span>
               </li>
               <li className="flex items-start space-x-3">
                 <MapPin className="text-[#2DAAEF] flex-shrink-0 mt-1" size={18} />
