@@ -86,7 +86,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm">
-              &copy; 2024 Wondmneh Tsegaye Import & IT Solution. All rights reserved.
+              &copy; 2026 Wondmneh Tsegaye Import & IT Solution. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-gray-400 hover:text-[#2DAAEF] transition-colors">

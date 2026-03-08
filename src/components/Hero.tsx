@@ -62,7 +62,7 @@ export default function Hero() {
           <div className="relative animate-slide-in-right">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                src="/img/image.png"
                 alt="IT Equipment"
                 className="w-full h-auto object-cover"
               />
