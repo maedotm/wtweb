@@ -16,17 +16,18 @@ export default function Hero() {
           <div className="space-y-6 animate-slide-in-left">
             <div className="inline-block px-4 py-2 bg-[#2DAAEF]/10 rounded-full">
               <span className="text-[#2DAAEF] font-semibold text-sm">
-                Your Trusted IT Partner
+                Your Trusted IT Partner WTB trading
               </span>
             </div>
 
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 leading-tight">
-              Complete IT Solutions for Your Business
+              Complete IT Solutions for Your Business in Ethiopia
             </h1>
 
             <p className="text-lg text-gray-600 leading-relaxed">
               From premium IT equipment to comprehensive networking solutions,
               we deliver excellence in technology import, installation, and support.
+              any where in addis Ababa Ethiopia
             </p>
 
             <div className="space-y-3">

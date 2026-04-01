@@ -73,7 +73,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start space-x-3">
                 <Mail className="text-[#2DAAEF] flex-shrink-0 mt-1" size={18} />
-                <span className="text-gray-400">info@wondmnehitsolution.com</span>
+                <span className="text-gray-400">info@wtbtrading.com</span>
               </li>
               <li className="flex items-start space-x-3">
                 <MapPin className="text-[#2DAAEF] flex-shrink-0 mt-1" size={18} />

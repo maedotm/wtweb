@@ -28,13 +28,7 @@ export default function Header() {
     >
       <div className="container mx-auto px-4 md:px-8">
         <div className="flex items-center justify-between">
-          <div className="flex items-center">
-            <img
-              src="img/logo.png"   // put your logo file inside public folder
-              alt="Company Logo"
-              className="h-20 w-auto"
-            />
-          </div>
+ 
 
           <nav className="hidden md:flex items-center space-x-8">
             <button
